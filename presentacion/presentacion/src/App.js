@@ -10,7 +10,7 @@ const App = () => {
     <div className="App">
       <Confetti />
       <header className="App-header">
-        <h1 style={{ marginBottom: "0px" }}>Demostración</h1>
+        <h1 style={{ marginBottom: "0px" }}>Hasta aquí la Demostración</h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
         </p>
         <div id="gifContainer">
